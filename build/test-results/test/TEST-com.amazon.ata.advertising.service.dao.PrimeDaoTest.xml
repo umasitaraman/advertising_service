@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.dao.PrimeDaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:17" hostname="KrishnarthysAir" time="0.04">
+  <properties/>
+  <testcase name="get_requestContext_listOfPrimeBenefitsForCustomer()" classname="com.amazon.ata.advertising.service.dao.PrimeDaoTest" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

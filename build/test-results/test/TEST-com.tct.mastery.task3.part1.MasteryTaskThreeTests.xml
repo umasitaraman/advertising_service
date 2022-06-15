@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tct.mastery.task3.part1.MasteryTaskThreeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:15:25" hostname="KrishnarthysAir" time="12.905">
+  <properties/>
+  <testcase name="generateAdvertisement_multipleContentEachSingleTargetingGroups_alwaysReturnsHighestCTR()" classname="com.tct.mastery.task3.part1.MasteryTaskThreeTests" time="12.905"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.model.translator.AdvertisementTranslatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:19" hostname="KrishnarthysAir" time="0.001">
+  <properties/>
+  <testcase name="toCoral_internalAdvertisementRepresentation_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.AdvertisementTranslatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

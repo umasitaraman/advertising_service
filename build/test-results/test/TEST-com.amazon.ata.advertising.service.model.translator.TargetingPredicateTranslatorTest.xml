@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:19" hostname="KrishnarthysAir" time="0.168">
+  <properties/>
+  <testcase name="fromCoral_ageTypeInvalidAge_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="toCoral_primePredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="toCoral_agePredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="toCoral_recognizedPredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_spendFrequencyTypeMissingComparisonKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.026"/>
+  <testcase name="fromCoral_spendFrequencyTypeMissingPurchaseNumberKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.005"/>
+  <testcase name="fromCoral_spendFrequencyTypeValidAttributes_returnsSpendFrequencyPredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="fromCoral_parentTypeWithAttributes_returnParentPredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="fromCoral_spendValueTypeMissingInvalidCategoryValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.003"/>
+  <testcase name="fromCoral_ageTypeInvalidBenefit_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_spendFrequencyTypeMissingCategoryKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="toCoral_spendValuePredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="fromCoral_ageTypeMissingAttribute_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.005"/>
+  <testcase name="fromCoral_spendFrequencyTypeMissingInvalidCategoryValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_spendValueTypeInvalidValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_recognizedTypeWithAttributes_returnRecognizedPredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="fromCoral_spendValueTypeInvalidComparisonValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="fromCoral_primeTypeWithAttributes_returnPrimePredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.005"/>
+  <testcase name="toCoral_spendFrequencyPredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.003"/>
+  <testcase name="fromCoral_spendFrequencyTypeInvalidPurchaseNumberValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_ageTypeWithAttributes_returnAgePredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="fromCoral_spendValueTypeMissingComparisonKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="fromCoral_spendValueTypeMissingPurchaseNumberKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.004"/>
+  <testcase name="fromCoral_primeTypeMissingAttribute_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.007"/>
+  <testcase name="fromCoral_spendValueTypeValidAttributes_returnsSpendValuePredicate()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="fromCoral_spendValueTypeMissingCategoryKey_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.002"/>
+  <testcase name="toCoral_parentPredicate_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.001"/>
+  <testcase name="fromCoral_spendFrequencyTypeInvalidComparisonValue_throwsClientException()" classname="com.amazon.ata.advertising.service.model.translator.TargetingPredicateTranslatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.model.translator.TargetingGroupTranslatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:19" hostname="KrishnarthysAir" time="0.054">
+  <properties/>
+  <testcase name="toCoral_targetingGroupWithEmptyPredicateList_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingGroupTranslatorTest" time="0.003"/>
+  <testcase name="toCoral_targetingGroupWithPredicates_returnsCoralShape()" classname="com.amazon.ata.advertising.service.model.translator.TargetingGroupTranslatorTest" time="0.05"/>
+  <system-out><![CDATA[[com.amazon.ata.advertising.service.model.TargetingPredicate@a14d2a54, com.amazon.ata.advertising.service.model.TargetingPredicate@18da6b73]
+com.amazon.ata.advertising.service.model.TargetingPredicate@a14d2a54
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

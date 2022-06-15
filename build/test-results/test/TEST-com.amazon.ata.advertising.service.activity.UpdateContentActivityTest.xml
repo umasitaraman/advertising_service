@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.activity.UpdateContentActivityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:16" hostname="KrishnarthysAir" time="0.124">
+  <properties/>
+  <testcase name="updateContent_requestUpdates_resultsContainUpdates()" classname="com.amazon.ata.advertising.service.activity.UpdateContentActivityTest" time="0.124"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:18" hostname="KrishnarthysAir" time="0.09">
+  <properties/>
+  <testcase name="delete_contentIdExists_deletesAndReturnsTargetingGroups()" classname="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" time="0.023"/>
+  <testcase name="update_targetingGroupDoesNotExist_throwsClientException()" classname="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" time="0.008"/>
+  <testcase name="create_newTargetingGroup_saves()" classname="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" time="0.041"/>
+  <testcase name="update_targetingGroupExists_saveChanges()" classname="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" time="0.007"/>
+  <testcase name="get_existingContentId_returnsTargetingGroup()" classname="com.amazon.ata.advertising.service.dao.TargetingGroupDaoTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

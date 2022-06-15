@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.dao.ContentDaoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:17" hostname="KrishnarthysAir" time="1.42">
+  <properties/>
+  <testcase name="update_unEncryptedMarketplaceId_updatesValues()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="1.366"/>
+  <testcase name="create_givenMarketplaceIdAndContent_contentSaved()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.006"/>
+  <testcase name="update_existingContent_updatesValues()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.007"/>
+  <testcase name="delete_contentExists_contentDeletedAndReturned()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.005"/>
+  <testcase name="get_unencryptedMarketplaceWithContent_returnsListOfContent()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.005"/>
+  <testcase name="get_encryptedMarketplaceWithContent_returnsListOfContent()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.004"/>
+  <testcase name="update_contentDoesNotExist_throwsException()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.006"/>
+  <testcase name="create_givenUnEncryptedMarketplaceId_contentSaved()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.005"/>
+  <testcase name="delete_contentDoesNotExist_throwsException()" classname="com.amazon.ata.advertising.service.dao.ContentDaoTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:15" hostname="KrishnarthysAir" time="0.214">
+  <properties/>
+  <testcase name="evaluate_customerDoesNotHaveBenefit_inverseTrue()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.137"/>
+  <testcase name="evaluate_customerNotRecognized_inverseTrue()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.006"/>
+  <testcase name="evaluate_customerNotRecognized_inverseFalse()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.003"/>
+  <testcase name="evaluate_customerHasMultipleBenefits_inverseFalse()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.013"/>
+  <testcase name="evaluate_customerHasBenefit_inverseTrue()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.007"/>
+  <testcase name="evaluate_customerDoesNotHaveBenefit_inverseFalse()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.004"/>
+  <testcase name="evaluate_customerHasBenefit_inverseFalse()" classname="com.amazon.ata.advertising.service.targeting.predicate.PrimeBenefitTargetingPredicateTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tct.mastery.task1.MasteryTaskOneLogicTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:14:47" hostname="KrishnarthysAir" time="24.5">
+  <properties/>
+  <testcase name="generateAdvertisement_withTargetCustomerIdNotInMarketplace_returnsEmptyContent()" classname="com.tct.mastery.task1.MasteryTaskOneLogicTests" time="7.712"/>
+  <testcase name="generateAdvertisement_withTargetCustomerIdInMarketplace_returnsAdvertisement()" classname="com.tct.mastery.task1.MasteryTaskOneLogicTests" time="16.634"/>
+  <testcase name="generateAdvertisement_withNonExistantMarketplace_returnsEmptyContent()" classname="com.tct.mastery.task1.MasteryTaskOneLogicTests" time="0.152"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:12" hostname="KrishnarthysAir" time="0.08">
+  <properties/>
+  <testcase name="convertList_sizeOne()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.034"/>
+  <testcase name="convertList_sizeTwo()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.003"/>
+  <testcase name="unconvert_sizeOne()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.007"/>
+  <testcase name="unconvert_sizeTwo()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.005"/>
+  <testcase name="convertList_emptyList()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.008"/>
+  <testcase name="unconvert_emptyList()" classname="com.amazon.ata.advertising.service.targeting.predicate.TargetingPredicateTypeConverterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

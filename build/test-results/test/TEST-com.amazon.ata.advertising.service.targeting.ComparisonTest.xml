@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.advertising.service.targeting.ComparisonTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-25T22:16:16" hostname="KrishnarthysAir" time="0.049">
+  <properties/>
+  <testcase name="equals_True()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.002"/>
+  <testcase name="equals_False()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.003"/>
+  <testcase name="lessThan_False()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.004"/>
+  <testcase name="greaterThan_True()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.002"/>
+  <testcase name="lessThan_True()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.003"/>
+  <testcase name="greaterThan_False()" classname="com.amazon.ata.advertising.service.targeting.ComparisonTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
